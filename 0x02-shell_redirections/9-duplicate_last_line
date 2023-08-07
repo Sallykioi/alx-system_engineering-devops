@@ -1,2 +1,2 @@
 #!/bin/bash
-sort iacta |uniq -d | grep -1
+sort iacta |uniq -d -n 1
